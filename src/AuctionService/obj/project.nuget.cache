@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9BhzcjKt8bE=",
+  "dgSpecHash": "NFcojjhiGLo=",
   "success": true,
-  "projectFilePath": "K:\\Projekten\\dotnet\\mikro\\src\\auctionservice\\AuctionService.csproj",
+  "projectFilePath": "K:\\Projekten\\dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fraga\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fraga\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
