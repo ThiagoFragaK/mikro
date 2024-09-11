@@ -18,5 +18,10 @@ public class DbInitializer
             .CreateAsync();
 
         var count = await DB.CountAsync<Item>();
+        using var scope = app.Services.CreateScope();
+        var httpClient = scope.ServiceProvider.GetRequiredService<AuctionSvcHttpClient>();
+        var items = await httpClient.GetItemForSearchDb();
+
+        if(items.Count > 0) await DB.SaveAsync(items);
     }
 }

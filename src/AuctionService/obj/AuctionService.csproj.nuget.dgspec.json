@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "K:\\Projekten\\Dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj": {}
+    "K:\\Projekten\\dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj": {}
   },
   "projects": {
-    "K:\\Projekten\\Dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj": {
+    "K:\\Projekten\\dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "K:\\Projekten\\Dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj",
+        "projectUniqueName": "K:\\Projekten\\dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj",
         "projectName": "AuctionService",
-        "projectPath": "K:\\Projekten\\Dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj",
+        "projectPath": "K:\\Projekten\\dotnet\\mikro\\src\\AuctionService\\AuctionService.csproj",
         "packagesPath": "C:\\Users\\fraga\\.nuget\\packages\\",
-        "outputPath": "K:\\Projekten\\Dotnet\\mikro\\src\\AuctionService\\obj\\",
+        "outputPath": "K:\\Projekten\\dotnet\\mikro\\src\\AuctionService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
